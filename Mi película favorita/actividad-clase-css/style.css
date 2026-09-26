@@ -1,5 +1,5 @@
-.destacado {
-    color: blue;
-    background-color: rgb(122, 122, 57);
-    border: 2px solid blue;
+<element class="destacado"> {
+    color: rgb(4, 4, 46);
+    background-color: rgb(82, 82, 10);
+    border: 2px solid rgb(3, 3, 39);
 }
